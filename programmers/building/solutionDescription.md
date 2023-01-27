@@ -17,5 +17,3 @@ for a in arr:
     if maxlayer < a:   
         cnt += 1   
 return cnt    
-
-    
