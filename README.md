@@ -1,2 +1,2 @@
-# algorithm-solution
-programmers 
+# Algorithm-solution
+Programmers & Baekjoon 
